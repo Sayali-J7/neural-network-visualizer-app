@@ -5,7 +5,7 @@ import requests
 import matplotlib.pyplot as plt
 import numpy as np
 
-URL = 'http://127.0.01:5000'
+URL = ' ' #enter URL
 
 st.title('Neural Network Visualizer')
 st.sidebar.markdown('##Input Image')
