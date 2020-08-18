@@ -114,7 +114,7 @@ model.save('model.h5')
 # import matplotlib.pyplot as plt
 # import numpy as np
 # 
-# URL = 'http://127.0.01:5000'
+# URL = ' '#enter url u got
 # 
 # st.title('Neural Network Visualizer')
 # st.sidebar.markdown('##Input Image')
